@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRBarcode", "QRBarcode\QRBarcode.csproj", "{8BB85B7A-9C05-4DE5-9D10-F7BF888A3497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB85B7A-9C05-4DE5-9D10-F7BF888A3497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB85B7A-9C05-4DE5-9D10-F7BF888A3497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB85B7A-9C05-4DE5-9D10-F7BF888A3497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB85B7A-9C05-4DE5-9D10-F7BF888A3497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0302DF48-BA44-4040-B55E-A04754EA0825}
+	EndGlobalSection
+EndGlobal
